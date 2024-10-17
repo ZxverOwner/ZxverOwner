@@ -1,4 +1,4 @@
-Hi, I'm ZxverOwner, a shit developer that has no skill :(
+# Hi, I'm ZxverOwner, a shit developer that has no skill :(
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=big+fat+ballsack)](https://git.io/typing-svg)
 
