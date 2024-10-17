@@ -4,4 +4,4 @@ Hi, I'm ZxverOwner, a shit developer that has no skill :(
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxverowner&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxverowner)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxverowner&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
