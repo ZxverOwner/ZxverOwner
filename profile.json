@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "ZxverOwner",
-  "seed": "#AA9578",
+  "seed": "#B33AE4",
   "seedFromAvatar": true,
   "scheme": "tonalSpot",
   "motion": true,
@@ -128,15 +128,7 @@
     "items": [
       {
         "icon": "brand:telegram",
-        "url": "https://t.me/"
-      },
-      {
-        "icon": "brand:discord",
-        "url": "https://discord.com/"
-      },
-      {
-        "icon": "brand:x",
-        "url": "https://x.com/"
+        "url": "https://t.me/zxverowner"
       }
     ],
     "variant": "chip",
