@@ -8,10 +8,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/ZxverOwner/zxverowner.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-zxverowner-github-io-dark.svg"><img src="assets/project-zxverowner-github-io-light.svg" width="49%" alt="zxverowner.github.io"></picture></a>&nbsp;<a href="https://github.com/ZxverOwner/ZxverOwner"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-zxverowner-dark.svg"><img src="assets/project-zxverowner-light.svg" width="49%" alt="ZxverOwner"></picture></a>
-
-<a href="https://github.com/ZxverOwner/badrepo.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-badrepo-github-io-dark.svg"><img src="assets/project-badrepo-github-io-light.svg" width="49%" alt="badrepo.github.io"></picture></a>&nbsp;<a href="https://github.com/ZxverOwner/FNFViin"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-fnfviin-dark.svg"><img src="assets/project-fnfviin-light.svg" width="49%" alt="FNFViin"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>

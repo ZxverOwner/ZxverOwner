@@ -1,0 +1,217 @@
+{
+ "key": "adc11e43",
+ "stars": 0,
+ "contributions": 32,
+ "repos": 9,
+ "followers": 0,
+ "languages": [
+  [
+   "JavaScript",
+   19622
+  ],
+  [
+   "HTML",
+   16159
+  ],
+  [
+   "CSS",
+   4044
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 22,
+    "today": true
+   },
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 2,
+  "longest": 2
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "spoti.pw",
+   "url": "https://github.com/ZxverOwner/spoti.pw",
+   "text": "Liquid Glass UI for the Spotify iOS app, no jailbreak",
+   "fork": true,
+   "stars": 0,
+   "language": "Objective-C",
+   "topics": []
+  },
+  {
+   "name": "zxverowner.github.io",
+   "url": "https://github.com/ZxverOwner/zxverowner.github.io",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "YTLitePlus",
+   "url": "https://github.com/ZxverOwner/YTLitePlus",
+   "text": "A modified version of Youtube for iOS supercharged with YTLite (by @dayanch96) and +20 tweaks",
+   "fork": true,
+   "stars": 0,
+   "language": "Logos",
+   "topics": []
+  },
+  {
+   "name": "uYouEnhanced",
+   "url": "https://github.com/ZxverOwner/uYouEnhanced",
+   "text": "uYouEnhanced is an expanded version of uYou+ (made by @qnblackcat) with additional features and mainly made for non jailbroken users!",
+   "fork": true,
+   "stars": 0,
+   "language": "Logos",
+   "topics": []
+  },
+  {
+   "name": "YTMusicUltimate",
+   "url": "https://github.com/ZxverOwner/YTMusicUltimate",
+   "text": "The best tweak for YouTube Music iOS.",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "badrepo.github.io",
+   "url": "https://github.com/ZxverOwner/badrepo.github.io",
+   "text": "nois",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "ZxverOwner",
+   "url": "https://github.com/ZxverOwner/ZxverOwner",
+   "text": "Config files for my GitHub profile.",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": [
+    "config",
+    "github-config"
+   ]
+  },
+  {
+   "name": "FNFViin",
+   "url": "https://github.com/ZxverOwner/FNFViin",
+   "text": "Official repo for \"Friday Night Funkin' Viina Edition\"",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "silli-project",
+   "url": "https://github.com/ZxverOwner/silli-project",
+   "text": "silli",
+   "fork": false,
+   "stars": 0,
+   "language": "VBScript",
+   "topics": []
+  }
+ ]
+}
