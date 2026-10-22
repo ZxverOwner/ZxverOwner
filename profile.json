@@ -20,14 +20,14 @@
   "hidden": [],
   "hero": {
     "greeting": "Hi, I'm",
-    "name": "",
-    "subtitle": "I build interfaces and small useful tools.",
+    "name": "zxd",
+    "subtitle": "I’m gay and dont know shit.",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
       {
         "icon": "location_on",
-        "label": "Earth"
+        "label": "Estonia"
       },
       {
         "icon": "code",
@@ -93,8 +93,17 @@
   },
   "projects": {
     "source": "pinned",
-    "repos": [],
-    "overrides": {},
+    "repos": [
+      "zxverowner.github.io",
+      "ZxverOwner",
+      "badrepo.github.io",
+      "FNFViin"
+    ],
+    "overrides": {
+      "zxverowner.github.io": {
+        "text": "my shit website thingy"
+      }
+    },
     "empty": "No description yet.",
     "fork": "Fork"
   },
@@ -139,7 +148,7 @@
       {
         "icon": "language",
         "label": "My website",
-        "url": "https://example.com",
+        "url": "https://zxd.lol",
         "style": "filled"
       },
       {
